@@ -29,6 +29,7 @@ class About extends Me {
     "Database" : { "Firebase", "MySQL" },
     "Editors" : { "Vscode", "PyCharm" },
     "Platforms" : { "Linux", "Windows" },
+    "CSSFrameWorks" : { "MaterialUI", "BootStrap" },
     "OtherTools" : { "Git", "Jira" }
   };
 }
