@@ -5,9 +5,9 @@
 
 
 <hr></hr>
-
+ <div align="center" >
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-black)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
+![semicolon](https://img.shields.io/badge/-%3A-white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -20,6 +20,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/ReactJS-pink?style=flat&logo=react&logoColor=blue)
 
+  </div>
 ```dart
 // tools_I_use organized
 class About extends Me { 
