@@ -53,7 +53,7 @@ class About extends Me {
 </details> -->
 
 <hr></hr>
-
+<div align="center" >
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/sakshimaheshwari3141" width="75%"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
 
