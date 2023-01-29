@@ -18,7 +18,7 @@
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/ReactJS-pink?style=flat&logo=react&logoColor=blue)
 
 ```dart
 // tools_I_use organized
