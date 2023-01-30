@@ -1,10 +1,7 @@
 
-
-
-
 ![Header](./header.png)
 
-<hr></hr>
+<hr/>
  
  ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/sakshimaheshwari3141/sakshimaheshwari3141/main/wave.gif" width="30">
 
@@ -12,16 +9,17 @@ I am a final year Information Technology Student from [Institute of Engineering 
 
 [![Linkedin Badge](https://img.shields.io/badge/-sakshimaheshwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakshimaheshwari1010/)](https://www.linkedin.com/in/sakshimaheshwari1010/)
 [![Gmail Badge](https://img.shields.io/badge/-sakshimaheshwari3141@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshimaheshwari3141@gmail.com)](mailto:sakshimaheshwari3141@gmail.com)
-[![LeetCode Badge](https://img.shields.io/badge/-sakshimaheshwari-orange?style=flat-square&logo=Leetcode&logoColor=black&link=https://leetcode.com/sakshimaheshwari3141/)](https://leetcode.com/sakshimaheshwari3141/)
+[![LeetCode Badge](https://img.shields.io/badge/-sakshimaheshwari-pink?style=flat-square&logo=Leetcode&logoColor=black&link=https://leetcode.com/sakshimaheshwari3141/)](https://leetcode.com/sakshimaheshwari3141/)
 [![GitHub Badge](https://img.shields.io/badge/-sakshimaheshwari-grey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sakshimaheshwari3141)](https://github.com/sakshimaheshwari3141)
 
 You can find more about me on my [Portfolio](https://sakshiportfolio.netlify.app/). 
 
-<hr></hr>
+<hr/>
  
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-black)
 ![semicolon](https://img.shields.io/badge/-%3A-white)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -53,28 +51,21 @@ class About extends Me {
 
 ---
 
-### My Stats :
+
+### :joy: My Stats :
 
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=sakshimaheshwari3141&theme=dark&background=000000)![](https://github-readme-stats.vercel.app/api?username=sakshimaheshwari3141&show_icons=true&theme=radical)
 
-<!--
-<a href="https://github.com/sakshimaheshwari3141">
-  <img height="175px"  src="https://github-readme-stats.vercel.app/api?username=sakshimaheshwari3141&show_icons=true&theme=radical" />
-  
-</a>
-<a href="https://github.com/sakshimaheshwari3141">
-  
-  <img height="175px"   src="http://github-readme-streak-stats.herokuapp.com?user=sakshimaheshwari3141&theme=dark&background=000000" />
-</a>
-->
 
 
 
 <hr></hr>
+
 <div align="center" >
 <img src="https://raw.githubusercontent.com/sakshimaheshwari3141/sakshimaheshwari3141/main/dino.gif" href="https://github.com/sakshimaheshwari3141" width="100%"/><br>
 <img src="https://raw.githubusercontent.com/sakshimaheshwari3141/sakshimaheshwari3141/main/dark.gif"  width="60%"/>
 
 </div>
+
 
