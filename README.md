@@ -6,6 +6,13 @@
 
 <hr></hr>
  
+ ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+
+I am a final year Information Technology Student from [Institute of Engineering and Technology, DAVV](https://www.ietdavv.edu.in/). I am a tech enthusiast & loves to excel in the field of technology. Always open to collaborating on projects and innovative/disruptive ideas. Currently looking for full-time SDE roles. Feel free to connect with me here:
+
+[![Linkedin Badge](https://img.shields.io/badge/-sakshimaheshwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakshimaheshwari1010/)](https://www.linkedin.com/in/sakshimaheshwari1010/)
+[![Gmail Badge](https://img.shields.io/badge/-sakshimaheshwari3141@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshimaheshwari3141@gmail.com)](mailto:sakshimaheshwari3141@gmail.com)
+
  
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-black)
 ![semicolon](https://img.shields.io/badge/-%3A-white)
