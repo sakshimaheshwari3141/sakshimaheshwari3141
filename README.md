@@ -1,7 +1,7 @@
 
 
 
-  
+ <div align="center" > 
 ![Header](./header.png)
 
 <hr></hr>
@@ -28,7 +28,7 @@ I am a final year Information Technology Student from [Institute of Engineering 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/ReactJS-pink?style=flat&logo=react&logoColor=blue)
 
-
+</div>
  
 ```dart
 // tools_I_use organized
