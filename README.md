@@ -52,11 +52,11 @@ class About extends Me {
 ---
 
 
-### :joy: My Stats :
+### :fire: My Stats :
 
 
-![](http://github-readme-streak-stats.herokuapp.com?user=sakshimaheshwari3141&theme=dark&background=000000)![](https://github-readme-stats.vercel.app/api?username=sakshimaheshwari3141&show_icons=true&theme=radical)
-
+![](https://github-readme-stats.vercel.app/api?username=sakshimaheshwari3141&show_icons=true&theme=radical)
+![](http://github-readme-streak-stats.herokuapp.com?user=sakshimaheshwari3141&theme=dark&background=000000)
 
 
 
