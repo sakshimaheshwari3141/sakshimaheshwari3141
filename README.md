@@ -65,8 +65,8 @@ class About extends Me {
 
 <hr></hr>
 <div align="center" >
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/sakshimaheshwari3141" width="75%"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
+<img src="https://raw.githubusercontent.com/sakshimaheshwari3141/sakshimaheshwari3141/main/dino.gif" href="https://github.com/sakshimaheshwari3141" width="100%"/><br>
+<img src="https://raw.githubusercontent.com/sakshimaheshwari3141/sakshimaheshwari3141/main/dark.gif"  width="60%"/>
 
 </div>
 
