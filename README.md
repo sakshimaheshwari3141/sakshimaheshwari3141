@@ -58,8 +58,8 @@ class About extends Me {
 
 
 <a href="https://github.com/sakshimaheshwari3141">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakshimaheshwari3141&show_icons=true&theme=radical" />
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=sakshimaheshwari3141&theme=dark&background=000000" />
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=sakshimaheshwari3141&show_icons=true&theme=radical" />
+  <img height="210em" width="400em"  src="http://github-readme-streak-stats.herokuapp.com?user=sakshimaheshwari3141&theme=dark&background=000000" />
 </a>
 
 
