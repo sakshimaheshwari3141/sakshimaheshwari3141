@@ -12,7 +12,7 @@ I am a final year Information Technology Student from [Institute of Engineering 
 
 [![Linkedin Badge](https://img.shields.io/badge/-sakshimaheshwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakshimaheshwari1010/)](https://www.linkedin.com/in/sakshimaheshwari1010/)
 [![Gmail Badge](https://img.shields.io/badge/-sakshimaheshwari3141@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshimaheshwari3141@gmail.com)](mailto:sakshimaheshwari3141@gmail.com)
-
+[![LeetCode Badge](https://img.shields.io/badge/-sakshimaheshwari-orange?style=flat-square&logo=Leetcode&logoColor=black&link=https://leetcode.com/sakshimaheshwari3141/)](https://leetcode.com/sakshimaheshwari3141/)
  
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-black)
 ![semicolon](https://img.shields.io/badge/-%3A-white)
