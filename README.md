@@ -51,8 +51,13 @@ class About extends Me {
 }
 ```
 
+---
 
+### My Stats :
 
+![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshimaheshwari3141&show_icons=true&theme=radical)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sakshimaheshwari3141&theme=dark&background=000000)]
 
 
 
