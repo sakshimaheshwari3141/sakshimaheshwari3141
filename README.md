@@ -5,7 +5,7 @@
  
  ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/sakshimaheshwari3141/sakshimaheshwari3141/main/wave.gif" width="30">
 
-I am a final year Information Technology Student from [Institute of Engineering and Technology, DAVV](https://www.ietdavv.edu.in/). I am a tech enthusiast & loves to excel in the field of technology. Always open to collaborating on projects and innovative/disruptive ideas. Currently looking for full-time SDE roles. Feel free to connect with me here:
+I am a Sakshi Maheshwari and currently I am working as a Software Developer in Credit Suisse (NOW UBS). I have done my graduation in Information Technology from [Institute of Engineering and Technology, DAVV](https://www.ietdavv.edu.in/) in 2023. I am a tech enthusiast & loves to excel in the field of technology. Always open to collaborating on projects and innovative/disruptive ideas. Currently looking for full-time SDE roles. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-sakshimaheshwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakshimaheshwari1010/)](https://www.linkedin.com/in/sakshimaheshwari1010/)
 [![Gmail Badge](https://img.shields.io/badge/-sakshimaheshwari3141@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshimaheshwari3141@gmail.com)](mailto:sakshimaheshwari3141@gmail.com)
@@ -31,6 +31,9 @@ You can find more about me on my [Portfolio](https://sakshiportfolio.netlify.app
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/ReactJS-pink?style=flat&logo=react&logoColor=blue)
+![MUI](https://img.shields.io/badge/MUI-ED8B00%3Fstyle%3Dflat?logo=MUI&labelColor=purple&color=purple)
+![dotnet](https://img.shields.io/badge/dotnet-ED8B00%3Fstyle%3Dflat?logo=dotnet&labelColor=pink&color=pink)
+
 
 
  
@@ -40,11 +43,11 @@ class About extends Me {
   const myTools = {  
     "ProgramingLanguages" : { "Java", "Python", "C++", "C", "Javascript" },
     "OtherLanguages" : { "HTML", "CSS"},
-    "Database" : { "Firebase", "MySQL" },
-    "Editors" : { "Vscode", "PyCharm" },
+    "Database" : { "Firebase", "MySQL", "MSSQL", "MongoDB" },
+    "Editors" : { "Vscode", "PyCharm", "IntelliJ", "Visual Studio" },
     "Platforms" : { "Linux", "Windows" },
     "CSSFrameWorks" : { "MaterialUI", "BootStrap" },
-    "OtherTools" : { "Git", "Jira" }
+    "OtherTools" : { "Git", "Jira" , "Confluence"}
   };
 }
 ```
